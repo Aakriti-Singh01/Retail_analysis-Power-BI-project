@@ -96,7 +96,9 @@ Retail_Sales_Analysis/
 
  ## 📊 Dashboard Preview
 
-<img width="1350" height="726" alt="image" src="https://github.com/user-attachments/assets/1ae2b345-d94d-48aa-aa95-bc2b6ae5569e" />
+<img width="1445" height="737" alt="image" src="https://github.com/user-attachments/assets/013468f0-e001-49c9-95e2-718d5d818733" />
+<img width="1265" height="712" alt="image" src="https://github.com/user-attachments/assets/dc08a0cb-0e0b-43bd-b70c-70b301f1ce03" />
+
 
 
 ---
